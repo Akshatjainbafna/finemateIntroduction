@@ -6,6 +6,7 @@ body{
 	font-family: "Raleway", sans-serif;
 	background-image:url("image 6.png");
 	background-repeat: no-repeat;
+	overflow-x: hidden;
 }
 .page{
 	height: 110vh;
